@@ -8,6 +8,13 @@ MERGED from /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/android/app/src/m
 MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/e3e37f80f670211187aa1231b946bf2f/flipper-0.75.1/AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d361b2df4889e10ccb087036b2712aa4/flipper-network-plugin-0.75.1/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/4dc1b462c542840fb37f3403f4aaafbe/flipper-fresco-plugin-0.75.1/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_async-storage] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [com.facebook.react:react-native:0.64.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/c6ed7973530f2389b4b0a7b1a3c87aba/jetified-react-native-0.64.1/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/6bb482d4edfb8945df7454050b78aa75/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/7641105dea446ae5537c60dc45dc7187/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
@@ -26,28 +33,35 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/haozhongguo
 MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/710c1fabc407a943b9a6848655ab13bb/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/b6e0c34e23d56bf29e9b1a09e8799c9f/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d24ec4373c83a549803a3b979dff4063/soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/b8286ed28b50483d1bfadc3ffa43e8ca/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d74b5b498b35fd5cb32d0a6997bb1d3d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/3cec54776afc70d5723bb7fa110dd538/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/c63ceca946e9bc27525371878741042e/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/bfb36a8a02a6b71b49ca7ec649145b26/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/699bc310780b1730bce8fe271ffeca8b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d934be3c652b5ff5c18e2d68c8236453/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/af19d2bf9efbba5c87d98162386fe6bd/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/817fc0f1c5e4ae5271bca4e2db3eccfc/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/df075d1e0ebaa8f20062e116464b1eeb/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/2dd52bdeda96a748df5d7e83cece6c38/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/863b030a4ef24c5e89f12cd832de155e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/7e3b4c2f83e256517b094f844ce7d668/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/a45f51b2867c115d86c8bdb1d487c72c/activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/ed5a9132108c5b2ae9625fd37b95cb34/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/63dca38f6832352d0414ad7faf5de168/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/4677d8a5382c107f6965fb7455600737/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/2fe66d8bec3c90b690bace4d7b7b6157/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/5bbb72600245c24a4fed81f14e5302b4/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/ed5a9132108c5b2ae9625fd37b95cb34/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f01b27bb220ecb79298884ef36a7a2fb/core-1.1.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/01d333055a983e736e0a5fac950ffa8f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/95d1245147a39a2704a1601be8a06942/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f3128affa7000c088d176285d7f5681f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/34fb4b53ebbbc0d42cf00f739d5b7918/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/534dfe358287b68b5ba1038d10b7afc0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/1ef4cf53c2e69d9a48297aca6f06a492/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/cb34feab5db2b919c5bcf32eec0920cb/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f64c8351ef0c9a7a800019d28185706c/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/1162dfc4708142e2976ba251e87dc077/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/69ba81d17fd1c26c75281615add0554c/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/df65787e67fe4b4bc0635deed9695797/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/a1f5477cd6fd5fad9baa3e263bec7d60/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/60b50828def4ba3859898ffb4c971c21/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/bc452342bfee356d6b01786353f9367d/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/61b36bcd44c689e23dd0e5a9c933fba0/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/a476adf5600c34b12345cd851cd121e4/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/c4c1a109e8a7e023a65e14c69d88a1f4/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/android/app/src/debug/AndroidManifest.xml:2:1-13:12
@@ -80,10 +94,14 @@ application
 ADDED from /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [com.facebook.react:react-native:0.64.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/c6ed7973530f2389b4b0a7b1a3c87aba/jetified-react-native-0.64.1/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.64.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/c6ed7973530f2389b4b0a7b1a3c87aba/jetified-react-native-0.64.1/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d24ec4373c83a549803a3b979dff4063/soloader-0.10.1/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d24ec4373c83a549803a3b979dff4063/soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/b8286ed28b50483d1bfadc3ffa43e8ca/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/b8286ed28b50483d1bfadc3ffa43e8ca/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.core:core:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f01b27bb220ecb79298884ef36a7a2fb/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f01b27bb220ecb79298884ef36a7a2fb/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f3128affa7000c088d176285d7f5681f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
@@ -146,6 +164,20 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] /Users/haozhong
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d361b2df4889e10ccb087036b2712aa4/flipper-network-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/4dc1b462c542840fb37f3403f4aaafbe/flipper-fresco-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/4dc1b462c542840fb37f3403f4aaafbe/flipper-fresco-plugin-0.75.1/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_async-storage] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.64.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/c6ed7973530f2389b4b0a7b1a3c87aba/jetified-react-native-0.64.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.64.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/c6ed7973530f2389b4b0a7b1a3c87aba/jetified-react-native-0.64.1/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/6bb482d4edfb8945df7454050b78aa75/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
@@ -182,6 +214,8 @@ MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/haozhongguo/.gradle/cach
 MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/b6e0c34e23d56bf29e9b1a09e8799c9f/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d24ec4373c83a549803a3b979dff4063/soloader-0.10.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d24ec4373c83a549803a3b979dff4063/soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/b8286ed28b50483d1bfadc3ffa43e8ca/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/b8286ed28b50483d1bfadc3ffa43e8ca/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d74b5b498b35fd5cb32d0a6997bb1d3d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d74b5b498b35fd5cb32d0a6997bb1d3d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/3cec54776afc70d5723bb7fa110dd538/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
@@ -192,20 +226,28 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/haozh
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/bfb36a8a02a6b71b49ca7ec649145b26/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/699bc310780b1730bce8fe271ffeca8b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/699bc310780b1730bce8fe271ffeca8b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d934be3c652b5ff5c18e2d68c8236453/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/d934be3c652b5ff5c18e2d68c8236453/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/af19d2bf9efbba5c87d98162386fe6bd/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/af19d2bf9efbba5c87d98162386fe6bd/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/817fc0f1c5e4ae5271bca4e2db3eccfc/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/817fc0f1c5e4ae5271bca4e2db3eccfc/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/df075d1e0ebaa8f20062e116464b1eeb/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/df075d1e0ebaa8f20062e116464b1eeb/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/2dd52bdeda96a748df5d7e83cece6c38/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/2dd52bdeda96a748df5d7e83cece6c38/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/863b030a4ef24c5e89f12cd832de155e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/863b030a4ef24c5e89f12cd832de155e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/7e3b4c2f83e256517b094f844ce7d668/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/7e3b4c2f83e256517b094f844ce7d668/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/a45f51b2867c115d86c8bdb1d487c72c/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/a45f51b2867c115d86c8bdb1d487c72c/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/ed5a9132108c5b2ae9625fd37b95cb34/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/ed5a9132108c5b2ae9625fd37b95cb34/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/63dca38f6832352d0414ad7faf5de168/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/63dca38f6832352d0414ad7faf5de168/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/4677d8a5382c107f6965fb7455600737/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/4677d8a5382c107f6965fb7455600737/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/2fe66d8bec3c90b690bace4d7b7b6157/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/2fe66d8bec3c90b690bace4d7b7b6157/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/5bbb72600245c24a4fed81f14e5302b4/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/5bbb72600245c24a4fed81f14e5302b4/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/ed5a9132108c5b2ae9625fd37b95cb34/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/ed5a9132108c5b2ae9625fd37b95cb34/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f01b27bb220ecb79298884ef36a7a2fb/core-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f01b27bb220ecb79298884ef36a7a2fb/core-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/01d333055a983e736e0a5fac950ffa8f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
@@ -214,18 +256,22 @@ MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/haozhongguo/.gradle/caches/tra
 MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/95d1245147a39a2704a1601be8a06942/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f3128affa7000c088d176285d7f5681f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f3128affa7000c088d176285d7f5681f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/34fb4b53ebbbc0d42cf00f739d5b7918/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/34fb4b53ebbbc0d42cf00f739d5b7918/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/534dfe358287b68b5ba1038d10b7afc0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/534dfe358287b68b5ba1038d10b7afc0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/1ef4cf53c2e69d9a48297aca6f06a492/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/1ef4cf53c2e69d9a48297aca6f06a492/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/cb34feab5db2b919c5bcf32eec0920cb/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/cb34feab5db2b919c5bcf32eec0920cb/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f64c8351ef0c9a7a800019d28185706c/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/f64c8351ef0c9a7a800019d28185706c/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/1162dfc4708142e2976ba251e87dc077/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/1162dfc4708142e2976ba251e87dc077/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/69ba81d17fd1c26c75281615add0554c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/69ba81d17fd1c26c75281615add0554c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/df65787e67fe4b4bc0635deed9695797/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/df65787e67fe4b4bc0635deed9695797/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/a1f5477cd6fd5fad9baa3e263bec7d60/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/a1f5477cd6fd5fad9baa3e263bec7d60/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/60b50828def4ba3859898ffb4c971c21/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/60b50828def4ba3859898ffb4c971c21/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/bc452342bfee356d6b01786353f9367d/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/bc452342bfee356d6b01786353f9367d/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/61b36bcd44c689e23dd0e5a9c933fba0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/61b36bcd44c689e23dd0e5a9c933fba0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/a476adf5600c34b12345cd851cd121e4/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/a476adf5600c34b12345cd851cd121e4/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/c4c1a109e8a7e023a65e14c69d88a1f4/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
@@ -250,3 +296,19 @@ uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.75.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/e3e37f80f670211187aa1231b946bf2f/flipper-0.75.1/AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.75.1] /Users/haozhongguo/.gradle/caches/transforms-2/files-2.1/e3e37f80f670211187aa1231b946bf2f/flipper-0.75.1/AndroidManifest.xml:16:22-73
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
