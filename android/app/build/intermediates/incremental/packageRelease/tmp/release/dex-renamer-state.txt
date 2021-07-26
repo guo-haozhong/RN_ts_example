@@ -1,4 +1,0 @@
-#Wed Jul 21 16:10:27 CST 2021
-base.0=/Users/haozhongguo/Desktop/myPro/RN_CP_ts/template/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
