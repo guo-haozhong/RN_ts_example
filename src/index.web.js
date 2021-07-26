@@ -1,5 +1,5 @@
 import { AppRegistry } from 'react-native';
-import App from '../src/App.web'
+import App from '../src/web/App.web'
 // 注册组件
 AppRegistry.registerComponent('App', () => App);
 
